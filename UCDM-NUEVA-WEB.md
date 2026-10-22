@@ -1,6 +1,13 @@
 # UCDM · Espacio Esencial
 
-## Estado actual
+## Actualización del 22 de octubre de 2026
+- Las lecciones 139–168 y el Cuarto Repaso se sirven cifrados con la clave del mes.
+- La clave y los enlaces de entrada se publican en el curso privado de Skool.
+- La portada sigue disponible y las direcciones existentes se conservan.
+- El acceso recordado, el enlace directo y la renovación se documentan en `ACCESO-UCDM.md`.
+- Las nuevas lecciones deben cifrarse antes de subirlas al repositorio público.
+
+## Referencia histórica del proyecto
 - Repositorio principal: `espacio-esencial/espacio-esencial.github.io`
 - Sitio principal: https://espacio-esencial.github.io/
 - GitHub Pages activo.
@@ -59,3 +66,4 @@ Para continuar el proyecto:
 
 ## Repositorio anterior
 El repositorio `eduardramos/ucdm-lecciones` se utilizó inicialmente como entorno provisional. El proyecto principal continúa ahora en `espacio-esencial/espacio-esencial.github.io`.
+
